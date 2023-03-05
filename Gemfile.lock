@@ -34,7 +34,7 @@ GEM
     rack-protection (2.1.0)
       rack
     rake (13.0.6)
-    require_all (3.0.0)
+    require_all
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
       rspec-expectations (~> 3.10.0)
